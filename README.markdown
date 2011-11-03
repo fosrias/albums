@@ -10,7 +10,7 @@ specs and some request specs.
 It uses haml, sass, and coffeescript.
 
 Getting Started
-===============
+---------------
 
 1. Check out the repository.
 2. `bundle`. This only needs to be run when the gem dependencies change.
@@ -18,12 +18,11 @@ Getting Started
 4. `bundle exec rails server` to run the server.
 
 Stories
-=======
+-------
 
 * As an unauthenticated user, I can create an account
 * As an unauthenticated user, I can sign into my already-created account
 * As an authenticated user, I can sign out
-
 * As an authenticated user, I can create an album
 * As a user, I can see a list of albums
 * As an authenticated user, I can rate an album
